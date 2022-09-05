@@ -1,0 +1,7 @@
+1. descargar librerias de javaFX
+2. instalar javaFX en Eclipse desde el marketplace
+
+--crear proyecto de java fx en eclipse--
+
+3. configurar la ruta de las librerias de javaFX en el build path del proyecto
+4. configurar los run arguments y la referencia al controlador en el archivo de la vista
